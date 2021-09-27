@@ -1,0 +1,5 @@
+name: 'Tag Bumper'
+description: 'Increments version of application and creates latest release'
+runs:
+  using: 'node12'
+  main: 'index.js'
